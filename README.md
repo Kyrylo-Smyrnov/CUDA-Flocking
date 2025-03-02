@@ -23,9 +23,9 @@ Naive, 30 000 boids, 128 block size
 their neighbors
 </br>
 </br>
-![Rule_cohesion](images/Rule_cohesion.gif)
-![Rule_separation](images/Rule_separation.gif)
-![Rule_alignment](images/Rule_alignment.gif)
+![Rule_cohesion](images/Rule_cohesion.png)
+![Rule_separation](images/Rule_separation.png)
+![Rule_alignment](images/Rule_alignment.png)
 
 ## 3 approaches to calculations
 
