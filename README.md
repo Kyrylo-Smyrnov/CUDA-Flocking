@@ -21,11 +21,12 @@ Naive, 30 000 boids, 128 block size
 2. <b>Separation</b> - boids avoid getting to close to their neighbors
 3. <b>Alignment</b> - boids generally try to move with the same direction and speed as
 their neighbors
-</br>
-</br>
-![Rule_cohesion](images/Rule_cohesion.png)
-![Rule_separation](images/Rule_separation.png)
-![Rule_alignment](images/Rule_alignment.png)
+
+Cohesion ![Rule_cohesion](images/Rule_cohesion.png)
+
+Separation ![Rule_separation](images/Rule_separation.png)
+
+Alignment ![Rule_alignment](images/Rule_alignment.png)
 
 ## 3 approaches to calculations
 
